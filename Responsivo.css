@@ -1,0 +1,15 @@
+@media (min-width: 769px) {
+    .text-section {
+        flex-direction: row;
+    }
+
+    .text-box {
+        width: 30%;
+    }
+}
+
+@media (min-width: 1281px) {
+    .photos {
+        flex-direction: row;
+    }
+}
